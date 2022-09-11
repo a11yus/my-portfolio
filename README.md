@@ -9,5 +9,5 @@ Do checkout my portfolio : https://dainty-dasik-bfe655.netlify.app/
 
 
 ## 🛠 Skills
-HTML ,Css,JavaScript, ReactJs,Chakra-UI
+HTML |Css | JavaScript| ReactJs| Chakra-UI
 
