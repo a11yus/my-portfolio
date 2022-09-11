@@ -1,7 +1,7 @@
 
 ## Demo
 
-Here you can have a Look on our source Code my-portfolio.com :
+Here you can have a Look on my source Code of portfolio :
 https://github.com/a11yus/my-portfolio
 
 ## Deployment
